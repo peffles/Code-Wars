@@ -1,0 +1,1 @@
+1. I solved this Kata by learning about the reverse array method and was able to reverse the order of the array.
